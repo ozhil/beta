@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version='1.1'>
+<head>
+<title>Flym export</title>
+<dateCreated>1645806789398</dateCreated>
+</head>
+<body>
+	<outline title='CNET' type='rss' xmlUrl='http://www.cnet.com/rss/news/' retrieveFullText='true'/>
+	<outline title='The Hacker News' type='rss' xmlUrl='http://feeds.feedburner.com/TheHackersNews' retrieveFullText='true'/>
+	<outline title='BBC' type='rss' xmlUrl='http://feeds.bbci.co.uk/news/technology/rss.xml' retrieveFullText='true'/>
+</body>
+</opml>
